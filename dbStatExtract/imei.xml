@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EmailTune>
+<!--
+	<Imei>
+		<Name>X96 Test 1628 Doborin</Name>
+		<Value>357803044951628</Value>        
+	</Imei>
+
+	<Imei>
+		<Name>M96 Test 4515 Doborin</Name>
+		<Value>357803044954515</Value>        
+	</Imei>
+
+
+	<Imei>
+		<Name>M96 Demo 1470</Name>
+		<Value>357803045511470</Value>        
+	</Imei>
+-->
+	<Imei>
+		<Name>X96 Jetta 6494 Urupin</Name>
+		<Value>357803044956494</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>M96 Aveo 8702 Tolubaev</Name>
+		<Value>357803045498702</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>M96 Ford Focus 2 5245 Garanin</Name>
+		<Value>357803045495245</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>M96 Ford Focus 2 5211 Kurganov</Name>
+		<Value>357803045495211</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>M96 Ford Mondeo 9417 Osipov</Name>
+		<Value>357803045509417</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>M96 Kia Ceed2 4094 Mihailov</Name>
+		<Value>357803045514094</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>M96 Kia Optima 9825 Muhin</Name>
+		<Value>357803045499825</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>M96 Outlander 2295 Motorin</Name>
+		<Value>357803045522295</Value>        
+	</Imei>	
+	
+	<Imei>
+		<Name>M96 Jetta 5991 Kokovin</Name>
+		<Value>357803044955991</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>M96 Touareg 9787 Narbut</Name>
+		<Value>357803045529787</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>M96 Touareg 2642 Pershin</Name>
+		<Value>357803045522642 </Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>X96 Qashqai 6395 Pevnitski</Name>
+		<Value>357803044956395</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>X96 DS4 8565 Voronin</Name>
+		<Value>357803044958565</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>X96 Ford Focus2 3301 Vlasov</Name>
+		<Value>357803044953301</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>X96 Honda CRV 6239 Ivanov</Name>
+		<Value>357803044956239</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>X96 Hyundai Verna 9712 Iashenko </Name>
+		<Value>357803044959712</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>X96 Mazda3 4655 Belmach</Name>
+		<Value>357803044954655</Value>        
+	</Imei>
+	
+	<Imei>
+		<Name>X96 Outlander 9281 Maslov</Name>
+		<Value>357803044969281</Value>        
+	</Imei>	
+	
+</EmailTune>
